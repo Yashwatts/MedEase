@@ -28,5 +28,7 @@
 2) Open a browser and visit: http://localhost/your-folder-name/index.php
 # ⚠️ Troubleshooting
 • If the website doesn't load, check if Apache & MySQL are running.
+
 • If the database isn't appearing in phpMyAdmin, ensure the database folder is inside C:\xampp\mysql\data.
+
 • Restart XAMPP Control Panel and try again.
